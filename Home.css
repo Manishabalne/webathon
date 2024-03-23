@@ -1,0 +1,31 @@
+.dashboard-container {
+    background-image: url('https://i.pinimg.com/736x/23/1a/a1/231aa1364d9f98e0aa68bef83f196725.jpg'); /* Replace 'path/to/your/image.jpg' with the path to your image file */
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh; /* Ensure the background covers the entire viewport */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+  }
+  
+  .dashboard-content {
+    text-align: center; /* Center the content horizontally */
+    color:white; /* Set text color to white or appropriate color for better contrast */
+  }
+  
+  
+  .welcome-message {
+    font-size: 32px; /* Adjust the font size to your preference */
+    margin-bottom: 10px;
+  }
+  
+  
+  .wellness-info {
+    margin-top: 20px;
+    color:white;
+  }
+  h1{
+    color:white;
+    font-size: 60px;
+  }
